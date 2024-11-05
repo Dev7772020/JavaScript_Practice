@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-size: 35px;
+}
+
+button{
+    font-size: 35px;
+    cursor: pointer;
+}
+
+#result{
+    margin-top: 10px;
+}
